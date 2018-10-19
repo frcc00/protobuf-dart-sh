@@ -1,2 +1,3 @@
-# protobuf-dart-sh
-protobuf dart sh macos
+```
+/**********/protobuf-dart-sh/go.sh /*****/********.proto 
+```
